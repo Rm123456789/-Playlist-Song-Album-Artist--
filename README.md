@@ -6,7 +6,7 @@ Rose Mae Bautista,
 Hanilette Escuadro,
 Jennifer Lagundi,
 Jamaeca Sabado,
-Karen Joyce Tadina,
+Karen Joyce Tadina
 
 Project Adviser:
 Alexander Villasoto
